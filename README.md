@@ -10,6 +10,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.instagram.com/fersh_dev/"><img width="32px" alt="Twitter" title="Instagram" src="assets/pixel--instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://fersh5.github.io/"><img width="32px" alt="Page_Fersh5" title="Page" src="assets/pixel--globe.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br>
@@ -20,7 +22,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,git,vscode,anaconda,gcp,bash,postgres,linux,github,js,html,css)](https://skillicons.dev)
 
-# About me
+<h1 align="center">🏅 About me </h1>
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 - 🎓 I'm Fernando, I'm a computer engineering student at the <a href="https://www.upiicsa.ipn.mx/">**IPN - UPIICSA**</a> 
@@ -31,14 +33,19 @@
 <br>
 <br>
 <br>
-
-
-#  GitHub Readme Stats
+<br>
+<br>
+<h1 align="center">📊 GitHub Readme Stats </h1>
+<br>
 <div align="center">
+    <img alt="Fersh5's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Fersh5&theme=radical&hide_border=true&short_numbers=true"/>
+  <br>
+  <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Fersh5&show_icons=true&theme=radical" alt="Fersh5's GitHub Stats" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fersh5&layout=compact&theme=radical" alt="Top Langs" />
   <br>
   <br>
 
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Fersh5&bg_color=1F222E&color=7bbbffb8&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Fersh5's Activity Graph" height="280em" src="https://github-readme-activity-graph.vercel.app/graph/?username=Fersh5&bg_color=1F222E&color=7bbbffb8&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
+<br>
